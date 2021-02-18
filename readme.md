@@ -22,3 +22,8 @@ npm start
 
 - Verson 1.0.0
 - License MIT
+
+
+## API Documentation
+
+- https://documenter.getpostman.com/view/7988127/TWDWJHMq
