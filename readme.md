@@ -33,6 +33,8 @@ node seeder -i
 
 ## API Documentation
 
+The API is live at [devcampercloseby.xyz](https://www.devcampercloseby.xyz/)
+
 Extensive documentation with examples [here](https://documenter.getpostman.com/view/7988127/TWDWJHMq)
 
 
