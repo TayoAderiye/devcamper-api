@@ -19,12 +19,23 @@ npm run dev
 npm start
 ```
 
+## Database Seeder
 
-- Verson 1.0.0
-- License MIT
+To seed the database with users, bootcamps, courses and reviews with the data from "_data" folder, run
+```
+# Destroy all data
+node seeder -d
+# Import all data
+node seeder -i
+```
+
 
 
 ## API Documentation
-```
-- https://documenter.getpostman.com/view/7988127/TWDWJHMq
-```
+
+Extensive documentation with examples [here] (https://documenter.getpostman.com/view/7988127/TWDWJHMq)
+
+
+- Verson 1.0.0
+- License MIT
+- Author: Tayo Aderiye
