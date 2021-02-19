@@ -33,7 +33,7 @@ node seeder -i
 
 ## API Documentation
 
-Extensive documentation with examples [here] (https://documenter.getpostman.com/view/7988127/TWDWJHMq)
+Extensive documentation with examples [here](https://documenter.getpostman.com/view/7988127/TWDWJHMq)
 
 
 - Verson 1.0.0
